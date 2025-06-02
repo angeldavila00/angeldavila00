@@ -5,7 +5,7 @@ I am a software development student.
 * I am from Colombia 
 * Basic knowledge .py
 * Campuslands Academy
- # skills
+ ### skills
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
