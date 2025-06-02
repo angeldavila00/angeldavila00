@@ -1,4 +1,4 @@
-# 👋 Hey! I'm **Ángel Niño**
+# 👋 Hey! I'm **Angel Niño**
 
 🎓 Software Development student at **Campuslands Academy**  
 📍 I am from Colombia   
