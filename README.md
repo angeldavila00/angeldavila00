@@ -33,6 +33,10 @@ I am a software development student.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeldavila00&theme=cyber-streakglow&hide_border=FALSO&locale=es&short_numbers=FALSO&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ArtDaSak&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" width="157"/>
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldavila00)
 
 
