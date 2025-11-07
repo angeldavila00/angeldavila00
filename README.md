@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
 </div>
-<img src="https://imgur.com/eHX5ktP.jpeg">
+<img src="https://imgur.com/ITM5tXl.jpeg">
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
