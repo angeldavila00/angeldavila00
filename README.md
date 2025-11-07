@@ -1,24 +1,21 @@
-# 👋 Hey! I'm **Angel Niño**
-
-🎓 Software Development student at **Campuslands Academy**  
-📍 I am from Colombia   
-💻 Basic knowledge of **Python (.py)**  
-
----
-
-### 🧠 Currently learning:
-- Git and GitHub
-- Programming fundamentals with Python
-- Version control and team workflows
-
----
-### 📊 GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeldavila00&theme=cyber-streakglow&hide_border=false&locale=es&short_numbers=false&date_format=d%2Fm%2FY)](https://git.io/streak-stats)
+<div align="center">
+<h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
+</div>
+<img src="https://imgur.com/eHX5ktP.jpeg">
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
 </div>
+
+## Sobre mi
+
+- 🎓 Estudiante de Desarrollo de Software en Campuslands Academy
+- 💻 Python (.py)
+- 🤖 GitHub
+- 🎮 HTML Y CSS
+- 👾 JavaScript
+- 📊 SQL y MongoDB
+<br>
 
 ---
 
@@ -44,8 +41,11 @@
 
 ---
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldavila00&layout=compact&theme=radical)
+---
+### 📊 GitHub Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeldavila00&theme=cyber-streakglow&hide_border=false&locale=es&short_numbers=false&date_format=d%2Fm%2FY)](https://git.io/streak-stats)
 
 ---
 
