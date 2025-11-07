@@ -1,13 +1,17 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
 </div>
-<img src="https://imgur.com/ITM5tXl.jpeg">
+<div align="center">
+<img src="https://imgur.com/ITM5tXl.jpeg" style="width: 550px; height: auto; border-radius: 10px;" ></div>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
 </div>
+<div align="center">
 
 ## Sobre mi
+
+</div>
 
 - 🎓 Estudiante de Desarrollo de Software en Campuslands Academy
 - 💻 Python (.py)
@@ -18,6 +22,7 @@
 <br>
 
 ---
+<div align="center">
 
 ### Skills:
 
@@ -38,12 +43,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/>
   </a>
 </p>
+</div>
 
 ---
+<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldavila00&layout=compact&theme=radical)
+
+</div>
+
 ---
-### 📊 GitHub Stats:
+<div align="center">
+
+###  GitHub Estado:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeldavila00&theme=cyber-streakglow&hide_border=false&locale=es&short_numbers=false&date_format=d%2Fm%2FY)](https://git.io/streak-stats)
 
