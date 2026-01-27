@@ -2,8 +2,8 @@
 <h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
 </div>
 <div align="center">
-<img src="https://imgur.com/ITM5tXl.jpeg" style="width: 550px; height: auto; border-radius: 10px;" ></div>
 
+[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
 </div>
