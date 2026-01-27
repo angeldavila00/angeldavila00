@@ -4,6 +4,13 @@
 <h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
 </div>
 
+<p>Técnico en desarrollo de software Full Stack, con experiencia en aplicaciones web y
+API REST usando Java y Spring Boot.. Se caracteriza por su compromiso,
+colaboración y liderazgo, manteniendo un enfoque constante en la mejora continua
+y en su crecimiento profesional. Con la capacidad de asumir múltiples tareas y
+adaptarse con facilidad a distintos entornos laborales. Manejo de Git, metodologías
+ágiles y  con conocimiento en diversos lenguajes de programación.</p>
+
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
 </div>
