@@ -1,9 +1,9 @@
+
+
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
 </div>
-<div align="center">
 
-[![HitCount](http://hits.dwyl.com/ABSphreak/ABSphreak.svg)](http://hits.dwyl.com/ABSphreak/ABSphreak)
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
 </div>
@@ -13,12 +13,26 @@
 
 </div>
 
-- 🎓 Estudiante de Desarrollo de Software en Campuslands Academy
-- 💻 Python (.py)
-- 🤖 GitHub
-- 🎮 HTML Y CSS
-- 👾 JavaScript
-- 📊 SQL y MongoDB
+
+<br />
+<br />
+
+<img width="300" align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+### 👨‍💻 Languages and Tools
+
+<br />
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/BRdhanani) 
+
+
+
 <br>
 
 ---
@@ -60,4 +74,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angeldavila00&theme=cyber-streakglow&hide_border=false&locale=es&short_numbers=false&date_format=d%2Fm%2FY)](https://git.io/streak-stats)
 
 ---
-
