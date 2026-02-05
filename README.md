@@ -1,8 +1,8 @@
 
 
-<div align="center">
-<h1 align="center">Hola, soy <a href="">Angel Niño</a> 👋</h1>
-</div>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:6ee7b7&height=200&section=header&text=Samuel%20Mogollón&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p>Técnico en desarrollo de software Full Stack, con experiencia en aplicaciones web y
 API REST usando Java y Spring Boot.. Se caracteriza por su compromiso,
