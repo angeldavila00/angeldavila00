@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:6ee7b7&height=200&section=header&text=Angel%20Niño&fontSize=46&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3b82f6&height=200&section=header&text=Angel%20Niño&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p>Técnico en desarrollo de software Full Stack, con experiencia en aplicaciones web y
