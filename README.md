@@ -4,12 +4,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:3b82f6&height=200&section=header&text=Angel%20Niño&fontSize=46&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p>Técnico en desarrollo de software Full Stack, con experiencia en aplicaciones web y
-API REST usando Java y Spring Boot.. Se caracteriza por su compromiso,
-colaboración y liderazgo, manteniendo un enfoque constante en la mejora continua
-y en su crecimiento profesional. Con la capacidad de asumir múltiples tareas y
-adaptarse con facilidad a distintos entornos laborales. Manejo de Git, metodologías
-ágiles y  con conocimiento en diversos lenguajes de programación.</p>
+<p>Desarrollador backend enfocado en la construcción de
+servicios y API, con orientación a la calidad del software, la
+organización del código y la mejora continua. Se caracteriza
+por su capacidad de análisis, trabajo en equipo y adaptación a
+distintos entornos de desarrollo. Comprometido con la entrega
+de soluciones eficientes y escalables.</p>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=angeldavila00&label=Profile%20Views&color=190040&style=flat" alt="Profile Views" height="27" />
